@@ -1,0 +1,8 @@
+A,leaf,4
+B,enfix,5
+B,guess,5
+C,haunt,5
+1,shell,5
+1,program,7
+2,frequency,9
+3,consciousness,13
